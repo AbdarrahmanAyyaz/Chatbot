@@ -1,9 +1,4 @@
-# Chatbot
 
-
-Sure! Here’s a simpler, more generic version of the README that you can expand as you define the technologies for your project:
-
----
 
 A simple and customizable chatbot designed to assist customers with common inquiries and provide quick responses to frequently asked questions.
 
